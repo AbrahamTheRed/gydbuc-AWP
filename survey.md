@@ -28,7 +28,7 @@ Welcome to the pre-con session on Git Your Database Under Control! Please fill o
 
 ## Expectations from the Session
 **What are you hoping to learn today?** (Please write a brief description)
-
+I would like to start storing the state of all our custom databases in source control.
 - 
 
 ## Experience with Collaboration
