@@ -1,6 +1,6 @@
-$serverName = "localhost\bartender"
+$serverName = "localhost"
 $databaseName = "TasteWhisky"
-$outputDirectory = "C:\Users\Tonie\source\gydbuc\dbatools"
+$outputDirectory = "C:\Users\abrah\source\gydbuc\dbatools"
 #$credential = Get-Credential
 
 # Clean the folder, to spot any deletion of objects

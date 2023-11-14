@@ -1,4 +1,4 @@
-$serverName = "localhost\bartender"
+$serverName = "localhost"
 $databaseName = "TasteWhisky"
 $outputDirectory = "dbatools"
 #$credential = Get-Credential
